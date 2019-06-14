@@ -6,12 +6,9 @@ body{
 h1{ text-align: center; }
 ul{
 	margin:0px;
-	 text-align: center;
-
+	 text-align: left;
 }
 	
-
-
 ul li{
 	  list-style-type:none;
 	  float:left;
